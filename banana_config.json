@@ -1,0 +1,11 @@
+{
+    "name": "DialoGPT Medium",
+    "category": "Natural Language",
+    "example_input": {
+        "prompt": "Hey my name is Thomas! How are you?"
+    },
+    "example_output": {
+        "output": "I'm good, how are you?"
+    },
+    "version": "1"
+}
